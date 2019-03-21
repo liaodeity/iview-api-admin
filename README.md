@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <a href="https://www.iviewui.com">
         <img width="200" src="https://file.iviewui.com/logo-new.svg">
@@ -120,3 +121,7 @@ npm run build
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2016-present, iView
+=======
+# iview-api-admin
+基于vue iview 开发的一款api的前端后台模板，通过前后端分离进行云端API部署，实现无后端的功能开发模式
+>>>>>>> b16bc742fe81210f28914b61bf43e8e7cf94aafb
